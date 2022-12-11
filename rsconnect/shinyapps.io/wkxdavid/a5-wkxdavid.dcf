@@ -5,7 +5,9 @@ account: wkxdavid
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7861248
-bundleId: 6618386
+bundleId: 6621648
 url: https://wkxdavid.shinyapps.io/a5-wkxdavid/
-when: 1670636615.7294
-lastSyncTime: 1670636615.72941
+when: 1670720957.54746
+lastSyncTime: 1670720957.54747
+asMultiple: FALSE
+asStatic: FALSE
